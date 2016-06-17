@@ -12,3 +12,4 @@ druga_stevilka = "17"
 
 print(kalkulator(prva_stevilka, druga_stevilka))
 print kalkulator(124, 44)
+
