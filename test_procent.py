@@ -12,6 +12,7 @@ def test_procent_delez():
     print procent_delez(0.25)
     print procent_delez(0.45)
     print procent_delez(0.75)
+    print procent_delez(0.85)
     assert procent_delez(0.25) == str(25) + '%'
     assert procent_delez(0.75) == str(75) + '%'
     assert procent_delez(0.45) == str(45) + '%'
